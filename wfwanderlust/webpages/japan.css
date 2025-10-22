@@ -1,0 +1,25 @@
+.title {
+  font-size: 80px;
+} 
+img {
+  width: 55px;
+}
+.wfWanderlust{
+  font-family: 'Marcellus', serif;
+  font-size:14px;
+}
+.bottomBar{
+  display:flex;
+  justify-content:space-evenly;
+}
+.hotel1{
+  text-align: center;
+}
+
+hotel2{
+  text-align: center;
+}
+
+hotel3{
+  text-align: center;
+}

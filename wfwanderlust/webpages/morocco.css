@@ -1,0 +1,88 @@
+/*remove underline from link*/
+a:link {
+      text-decoration: none;
+}
+
+a:visited {
+      text-decoration: none;
+}
+
+a:hover {
+      text-decoration: none;
+}
+
+a:active {
+      text-decoration: none;
+}
+
+.wfWanderlust{
+  font-family: 'Marcellus', serif;
+  font-size:14px;
+}
+.webIcon{
+  width:55px;
+}
+/*site icon & name*/
+.MARpageNane{
+  color:darkolivegreen;
+  text-align:center;
+  font-family: 'Marcellus', serif;
+}
+
+img{
+  max-width:500px;
+  max-height:300px;
+  margin:10px;
+  border-radius:10px;
+}
+
+.head{
+  color:darkgoldenrod;
+  text-align:center;
+  font-family: 'Montserrat', sans-serif;
+}
+body{
+  background-color: #F1DFB6;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.MARhotel{
+  display:flex;
+  justify-content: space-around;
+  border:3px solid green;
+  border-radius:10px;
+}
+.MARattractions{
+  display:flex;
+  justify-content: space-around;
+  border:3px solid red;
+  border-radius:10px;
+}
+.attraction1{
+  text-align:center;
+
+}
+.attraction2{
+  text-align:center;
+  
+}
+.attraction3{
+  text-align:center;
+  
+}
+.hotel1{
+  text-align:center;
+}
+.hotel2{
+  text-align:center;
+}
+.hotel3{
+  text-align:center;
+}
+.bottomBar{
+  display:flex;
+  justify-content:space-evenly;
+}
+h4{
+  color:darkolivegreen;
+}

@@ -1,0 +1,251 @@
+/*remove underline from link*/
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.hook{
+  text-align:center;
+}
+body {
+  background-color: #FDF3DD;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/*Header*/
+img {
+  width: 55px;
+}
+.wfWanderlust{
+  font-family: 'Marcellus', serif;
+  font-size:14px;
+}
+.bottomBar{
+  display:flex;
+  justify-content:space-evenly;
+}
+.hook{
+  margin:auto;
+  border:3px solid black;
+  border-radius:10px;
+  width:50%;
+}
+.introSite{
+  width:30%;
+  font-size:20px;
+}
+.buttonSection{
+  display:flex;
+  justify-content:space-around;
+  padding:50px;
+}
+.pages{
+  display:flex;
+  justify-content:space-evenly;
+  flex-wrap:wrap;
+  width:60%;
+  margin:auto;
+}
+
+/*faq button*/
+.f{
+  margin-right:30px;
+  padding:10px;
+  width:150px;
+  height:160px;
+  border-radius:10px;
+  border:none;
+  background-color: #FDCFEE;
+  font-size:20px;
+  color:#3583A6;
+  text-align:center;
+  margin-bottom:10px;
+}
+.f:hover{
+  background-color: #eaa9d4;
+}
+
+/*america button*/
+.am{
+  margin-right:30px;
+  padding:10px;
+  width:150px;
+  height:160px;
+  border-radius:10px;
+  border:none;
+  background-color: #DECCFE;
+  font-size:20px;
+  color:#fefff5;
+  text-align:center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom:10px;
+  
+}
+.am:hover {
+  background-color: #bba3e6;
+}
+
+/*brazil button*/
+.br{
+  margin-right:30px;
+  padding:10px;
+  width:150px;
+  height:160px;
+  border-radius:10px;
+  border:none;
+  background-color:#FF6CC5;
+  font-size:20px;
+  color: #FFC9F3;
+  text-align:center;
+  margin-bottom:10px;
+}
+.br:hover {
+  background-color:#e64ca8;
+}
+
+/*canada button*/
+.ca{
+  margin-right:30px;
+  padding:10px;
+  width:150px;
+  height:160px;
+  border-radius:10px;
+  border:none;
+  background-color:#F7FFB4;
+  font-size:20px;
+  color: #79b1e2;
+  text-align:center;
+  margin-bottom:10px;
+}
+.ca:hover {
+  background-color:#e4ee91;
+}
+
+/*about us button*/
+.abUS{
+  margin-right:30px;
+  padding:10px;
+  width:150px;
+  height:160px;
+  border-radius:10px;
+  border:none;
+  background-color:#F1DFB6;
+  font-size:20px;
+  color:  #ffffff;
+  text-align:center;
+  margin-top:10px;
+}
+.abUS:hover {
+  background-color:#e9d3a0;
+}
+
+/*italy button*/
+.it{
+  margin-right:30px;
+  padding:10px;
+  width:150px;
+  height:160px;
+  border-radius:10px;
+  border:none;
+  background-color:#FFC9F3;
+  font-size:20px;
+  color: #FF6CC5;
+  text-align:center;
+  margin-top:10px;
+}
+.it:hover {
+  background-color:#f2b0e4;
+}
+
+/*japan button*/
+.jp{
+  margin-right:30px;
+  padding:10px;
+  width:150px;
+  height:160px;
+  border-radius:10px;
+  border:none;
+  background-color:#D6E8F7;
+  font-size:20px;
+  color: #CAAACD;
+  text-align:center;
+  margin-top:10px;
+}
+/* Change the color of links on hover */
+.jp:hover {
+  background-color:#c3dbee;
+}
+
+/*morocco button*/
+.mar{
+  margin-right:30px;
+  padding:10px;
+  width:150px;
+  height:160px;
+  border-radius:10px;
+  border:none;
+  background-color:#F1DFB6;
+  font-size:20px;
+  color: #EF601E;
+  text-align:center;
+  margin-top:10px;
+}
+.mar:hover {
+  background-color:#e5d3a9;
+}
+/* Change the color of links on hover */
+
+
+.amBird{
+  width:140px;
+  height:190px;
+}
+.brBird{
+  width:140px;
+  height:130px;
+}
+.caBird{
+  width:140px;
+  height:130px;
+}
+.itBird{
+  width:140px;
+  height:130px;
+}
+.jpBird{
+  width:140px;
+  height:130px;
+}
+.marBird{
+  width:140px;
+  height:130px;
+}
+.abPic{
+  width:140px;
+  height:130px;
+}
+.faqPic{
+  width:100px;
+  height:130px;
+}
+.plane{
+  width:370px;
+  height:200px;
+}

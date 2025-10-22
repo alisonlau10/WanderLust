@@ -1,0 +1,127 @@
+/* Global styles */
+body {
+  background-color: #F1DFB6;
+  font-family: 'Montserrat', sans-serif;
+  color: darkolivegreen;
+  text-align: center;
+}
+
+/* Main page name style */
+.MARpageName {
+  font-family: 'Marcellus', serif;
+}
+
+/* Headings style */
+.head {
+  color: darkgoldenrod;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Hotel and attraction containers style */
+.MARhotel, .MARattractions {
+  display: flex;
+  justify-content: space-around;
+  border: 3px solid;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+/* Individual attraction style */
+.attraction1, .attraction2, .attraction3, .hotel1, .hotel2, .hotel3 {
+  text-align: center;
+  margin: 10px;
+}
+
+/* Hotel and attraction images style */
+img {
+  max-width: 500px;
+  max-height: 300px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+/* Bottom bar style */
+.bottomBar {
+  display: flex;
+  justify-content: space-evenly;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Additional styles for bottom bar text */
+h4 {
+  color: darkolivegreen;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 10px;
+}
+
+/* Remove underline from links */
+a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+}
+
+/* Web icon style */
+.webIcon {
+  width: 55px;
+}
+
+/* Font style for the Wanderlust text */
+.wfWanderlust {
+  font-family: 'Marcellus', serif;
+  font-size: 14px;
+}
+/* Global styles */
+body {
+  background-color: #F1DFB6;
+  font-family: 'Montserrat', sans-serif;
+  color: darkolivegreen;
+  text-align: center;
+}
+
+/* Main page name style */
+.MARpageName {
+  font-family: 'Marcellus', serif;
+}
+
+/* Headings style */
+.head {
+  color: darkgoldenrod;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Hotel and attraction containers style */
+.MARhotel, .MARattractions {
+  display: flex;
+  justify-content: space-around;
+  border: 3px solid;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+/* Individual attraction style */
+.attraction1, .attraction2, .attraction3, .hotel1, .hotel2, .hotel3 {
+  text-align: center;
+  margin: 10px;
+}
+
+/* Hotel and attraction images style */
+img {
+  max-width: 500px;
+  max-height: 300px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+/* Bottom bar style */
+.bottomBar {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+/* Additional styles for bottom bar text */
+h4 {
+  color: darkolivegreen;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 10px;
+}

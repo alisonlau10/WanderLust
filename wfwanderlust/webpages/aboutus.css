@@ -1,0 +1,95 @@
+/*Header*/
+
+/*remove underline from link*/
+a:link {
+      text-decoration: none;
+}
+
+a:visited {
+      text-decoration: none;
+}
+
+a:hover {
+      text-decoration: none;
+}
+
+a:active {
+      text-decoration: none;
+}
+
+.wfWanderlust{
+  font-family: 'Marcellus', serif;
+  font-size:14px;
+}
+.webIcon{
+  width:55px;
+}
+
+body{
+  background-color:#F1DFB6;
+  font-family: 'Montserrat', sans-serif;
+  color:hotpink;
+}
+img{
+  max-width:300px;
+  max-height:400px;
+  border-radius:10px;
+}
+.bottomBar{
+  display:flex;
+  justify-content:space-evenly;
+  color:black;
+}
+.donaliceImg{
+  max-width:400px;
+  max-height:200px;
+}
+.teamIntro{
+  text-align:center;
+  margin:auto;
+  width:40%;
+}
+.infoSiteHead{
+  text-align:center;
+  margin:auto;
+  width:60%;
+}
+.mission{
+  color:deeppink;
+}
+.about{
+  color:hotpink;
+  font-family: 'Marcellus', serif;
+}
+.intro1{
+  color:black;
+}
+.intro2{
+  color:black;
+}
+.intro3{
+  color:black;
+}
+.intro4{
+  color:black;
+}
+.mem1{
+  border:3px solid white;
+  border-radius:10px;
+  margin-bottom:20px;
+}
+.mem2{
+  border:3px solid white;
+  border-radius:10px;
+  margin-bottom:20px;
+}
+.mem3{
+  border:3px solid white;
+  border-radius:10px;
+  margin-bottom:20px;
+}
+.mem4{
+  border:3px solid white;
+  border-radius:10px;
+  margin-bottom:20px;
+}

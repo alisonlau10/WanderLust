@@ -1,0 +1,57 @@
+/*remove underline from link*/
+a:link {
+      text-decoration: none;
+}
+
+a:visited {
+      text-decoration: none;
+}
+
+a:hover {
+      text-decoration: none;
+}
+
+a:active {
+      text-decoration: none;
+}
+
+.wfWanderlust{
+  font-family: 'Marcellus', serif;
+  font-size:14px;
+}
+.webIcon{
+  width:55px;
+}
+
+body{
+  background-color: #FDCFEE;
+}
+.faqName{
+  color:#3583A6;
+  font-family: 'Marcellus', serif;
+  text-align:center;
+}
+
+.q{
+  background-color: #FDCFEE;
+  font-size:25px;
+  width:100%;
+  padding:10px;
+  border:none;
+  outline:none;
+  text-align:left;
+  font-family: 'Montserrat', sans-serif;
+  color:purple;
+}
+
+.panel{
+  font-family: 'Montserrat', sans-serif;
+  padding:10px;
+  background-color: #FDCFEE;
+}
+
+.bottomBar{
+  display:flex;
+  justify-content:space-evenly;
+  font-family: 'Montserrat', sans-serif;
+}
